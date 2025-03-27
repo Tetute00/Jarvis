@@ -1,1 +1,0 @@
-# Control del sistema

@@ -1,1 +1,0 @@
-# Guía de instalación de JARVIS

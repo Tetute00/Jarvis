@@ -1,1 +1,0 @@
-# Comunicación con ESP32
