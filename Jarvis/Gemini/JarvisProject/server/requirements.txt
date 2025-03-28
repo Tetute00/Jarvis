@@ -1,0 +1,5 @@
+# server/requirements.txt
+fastapi
+uvicorn[standard] # [standard] includes performance extras like watchfiles
+python-dotenv
+# Add other server dependencies here as needed
